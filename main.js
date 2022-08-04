@@ -93,6 +93,7 @@ function getColor(num1, num2, num3) {
 const resultColor = getColor(23,100);
 console.log(resultColor);
 console.log('task 5');
+//не уверена, что это задание сделано правильно
 
 /* 
     TASK 5:
